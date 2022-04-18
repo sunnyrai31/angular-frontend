@@ -1,0 +1,11 @@
+{
+  "APP": {
+    "BRANDNAME": "E Shop",
+    "TITLE": "E shop Developer work",
+    "PRODUCT": {
+      "MENU": "",
+      "BUY_NOW": "Buy Now",
+      "VIEW": "VIew"
+    }
+  }
+}
